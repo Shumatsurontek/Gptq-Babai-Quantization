@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
