@@ -9,6 +9,6 @@ Ce repo propose une implémentation de GPTQ comme algorithme de Babai, basé sur
 
 ## Exécution
 ```bash
-pip install -r requirements.txt
+uv sync
 cd experiments
 jupyter notebook demo.ipynb
